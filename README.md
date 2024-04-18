@@ -3,7 +3,7 @@
 </p>
 
 &nbsp;<div align="center">
-[![Spotify](https://envyosity-ewaq.vercel.app/api/spotify)](https://open.spotify.com/user/leonardozkl)
+[![Spotify](https://envyosity.vercel.app/api/spotify)](https://open.spotify.com/user/leonardozkl)
 </div>
 
 <h1 align="center">Hi, I'm Leonardo Krunitzky!</h1>
