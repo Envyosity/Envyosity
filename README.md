@@ -6,7 +6,7 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 
 <p align="center">
-  <a href="https://github.com/Envyosity"><img src="https://github-readme-stats.vercel.app/api?username=Envyosity&show_icons=true&theme=merko&bg_color=30,141E30,243B55&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true&count_private=true" alt="Envyosity's github stats"></a>
+  <a href="https://github.com/Envyosity"><img src="https://github-readme-stats.vercel.app/api?username=Envyosity&show_icons=true&theme=merko&bg_color=30,141E30,243B55&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true&count_private=true&totalCommitContributions=true" alt="Envyosity's github stats"></a>
 </p>
 
 <div align="center" style="display: inline_block"><br>
