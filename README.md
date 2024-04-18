@@ -2,8 +2,13 @@
   <img src="YourePrettyGood.gif" width="498" height="280" alt="Banner">
 </p>
 
+<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/leonardozkl)
+</div>
+
 <h1 align="center">Hi, I'm Leonardo Krunitzky!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1>
+<h3 align="center">Most of my commits are in BitBucket</h3>
 
 <p align="center">
   <a href="https://github.com/Envyosity"><img src="https://github-readme-stats.vercel.app/api?username=Envyosity&show_icons=true&theme=merko&bg_color=30,141E30,243B55&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true&count_private=true" alt="Envyosity's github stats"></a>
