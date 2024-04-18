@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YourePrettyGood.gif" alt="Banner">
+  <img src="YourePrettyGood.gif" width="498" height="280" alt="Banner">
 </p>
 
 <h1 align="center">Hi, I'm Leonardo Krunitzky!</h1>
