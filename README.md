@@ -2,7 +2,7 @@
   <img src="YourePrettyGood.gif" width="498" height="280" alt="Banner">
 </p>
 
-<div align="center">
+&nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/leonardozkl)
 </div>
 
