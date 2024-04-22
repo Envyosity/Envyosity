@@ -10,9 +10,10 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 <h3 align="center">Most of my commits are in BitBucket</h3>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Envyosity"><img src="https://github-readme-stats-envyositys-projects.vercel.app/api?username=Envyosity&show_icons=true&theme=merko&bg_color=30,141E30,243B55&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true" alt="Envyosity's github stats"></a>
-</p>
+    <img height="195px" src="https://github-readme-stats-envyositys-projects.vercel.app/api/top-langs/?username=arthmalbeck&langs_count=7&theme=merko&bg_color=30,141E30,243B55&title_color=fff&text_color=fff"/>
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
