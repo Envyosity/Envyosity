@@ -3,7 +3,7 @@
 </p>
 
 &nbsp;<div align="center">
-  [![Spotify](https://https://novatorem-bice-two.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/leonardozkl)
+  [![Spotify](https://novatorem-envyositys-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/leonardozkl)
 </div>
 
 <h1 align="center">Hi, I'm Leonardo Krunitzky!</h1>
