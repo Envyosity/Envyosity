@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YourePrettyGood.gif" width="498" height="280" alt="Banner">
+  <img src="coding.gif" width="498" height="280" alt="Banner">
 </p>
 
 &nbsp;<div align="center">
