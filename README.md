@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi, I'm Leonardo Krunitzky!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1>
-<h3 align="center">Most of my commits are in BitBucket</h3>
+<h3 align="center">Most of my commits were made in private repositories</h3>
 
 <div align="center">
   <a href="https://github.com/Envyosity"><img src="https://github-readme-stats-envyositys-projects.vercel.app/api?username=Envyosity&show_icons=true&theme=merko&bg_color=30,141E30,243B55&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true" alt="Envyosity's github stats"></a>
