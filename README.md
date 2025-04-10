@@ -1,13 +1,25 @@
+<div align="center">
+  <h1>I'm Leonardo Krunitzky!<br/><div>🧙I do some magic via coding</div></h1>
+</div>
+
 <p align="center">
   <img src="coding.gif" width="498" height="280" alt="Banner">
 </p>
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem-envyositys-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/leonardozkl)
-</div>
+<h3 align="center">Currently listening to:</h3>
 
-<h1 align="center">Hi, I'm Leonardo Krunitzky!</h1>
-<h1 align="center">Welcome to my GitHub profile</h1>
+<p align="center">
+  <a href="https://open.spotify.com/user/leonardozkl">
+    <img src="https://novatorem-envyositys-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+<h3 align="center">Games i played</h3>
+
+<p align="center"> 
+  <a href="https://www.exophase.com/user/Dredgen_LeoK/"><img src="https://card.exophase.com/2/0/287641.png?1744243131"></a>
+</p>
+
 <h3 align="center">Most of my commits were made in private repositories</h3>
 
 <div align="center">
