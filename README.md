@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>I'm Leonardo Krunitzky!<br/><div>🧙I do some magic via coding</div></h1>
+  <h1>I'm Leonardo Krunitzky!<br/><div>I do some magic via coding 🧙</div></h1>
 </div>
 
 <p align="center">
