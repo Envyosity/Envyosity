@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="coding.gif" width="498" height="280" alt="Banner">
+  <img src="hard.gif" width="498" height="280" alt="Banner">
 </p>
 
 <h3 align="center">Currently listening to:</h3>
