@@ -36,7 +36,7 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://open.spotify.com/user/leonardozkl">
-    <img src="https://novatorem-envyositys-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" width="300" />
+    <img src="https://novatorem-envyositys-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
   </a>
   <a href="https://www.exophase.com/user/Dredgen_LeoK/">
     <img src="https://card.exophase.com/2/0/287641.png?1744243131" alt="Exophase Gamercard" width="300"/>
