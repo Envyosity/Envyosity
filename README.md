@@ -26,10 +26,8 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=merko&bg_color=30,141E30,243B55&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true" alt="Estatísticas do GitHub">
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&langs_count=5&theme=merko&bg_color=30,141E30,243B55&title_color=fff&text_color=fff&layout=compact" alt="Linguagens mais usadas"/>
+  <a href="https://github.com/Envyosity"><img src="https://github-readme-stats-envyositys-projects.vercel.app/api?username=Envyosity&show_icons=true&theme=merko&bg_color=30,141E30,243B55&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true" alt="Envyosity's github stats"></a>
+    <img height="195px" src="https://github-readme-stats-envyositys-projects.vercel.app/api/top-langs/?username=arthmalbeck&langs_count=7&theme=merko&bg_color=30,141E30,243B55&title_color=fff&text_color=fff&layout=compact&exclude_repo=github-readme-stats,novatorem"/>
 </div>
 
 <br/>
